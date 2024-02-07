@@ -3479,6 +3479,7 @@ td:last-child {
 
 	.s-header__menu-toggle {
 		right: calc(var(--gutter) * 2 + 0.4rem);
+
 	}
 }
 
@@ -3750,7 +3751,7 @@ td:last-child {
 .s-intro__content-title,
 .s-intro__content-pretitle,
 .s-intro__scroll-down {
-	transition-timing-function: cubic-bezier(0.28, 0.12, 0.22, 1);
+	
 	transition-duration       : 0.9s;
 	transition-delay          : 0s;
 	opacity                   : 0;
@@ -3810,7 +3811,7 @@ td:last-child {
 
 .no-js .s-intro__content-media img,
 .ss-show .s-intro__content-media img {
-	transition-delay: 0.6s;
+	transition-delay: 0s;
 }
 
 .no-js .s-intro__content-media .lines,
@@ -3825,7 +3826,7 @@ td:last-child {
 
 .no-js .s-intro__content-title,
 .ss-show .s-intro__content-title {
-	transition-delay: 1.5s;
+	transition-delay: 0s;
 }
 
 .no-js .s-intro__scroll-down,
