@@ -3894,7 +3894,7 @@ td:last-child {
 
 	.no-js .s-intro__content-media .lines,
 	.ss-show .s-intro__content-media .lines {
-		transition-delay: 0;
+		transition-delay: 0s;
 	}
 
 	.no-js .s-intro__scroll-down,
