@@ -3711,13 +3711,13 @@ td:last-child {
 	grid-row   : 2;
 }
 
-.s-intro__scroll-down {
+.s-intro__scroll-down a {
 	display    : inline-flex;
 	align-items: center;
 	color      : var(--color-3);
 }
 
-.s-intro__scroll-down  {
+.s-intro__scroll-down span {
 	display    : block;
 	font-family: var(--font-1);
 	font-size  : var(--text-size);
@@ -3736,7 +3736,7 @@ td:last-child {
 	margin-right   : var(--vspace-0_5);
 }
 
-.s-intro__scroll-down {
+.s-intro__scroll-down svg {
 	height: var(--vspace-0_875);
 	width : var(--vspace-0_875);
 	stroke: var(--color-3);
