@@ -3879,7 +3879,7 @@ td:last-child {
 
 	.no-js .s-intro__content-pretitle,
 	.ss-show .s-intro__content-pretitle {
-		transition-delay: 0.4s;
+		transition-delay: 0.2s;
 	}
 
 	.no-js .s-intro__content-title,
@@ -3894,7 +3894,7 @@ td:last-child {
 
 	.no-js .s-intro__content-media .lines,
 	.ss-show .s-intro__content-media .lines {
-		transition-delay: 0.4s;
+		transition-delay: 0.2s;
 	}
 
 	.no-js .s-intro__scroll-down,
